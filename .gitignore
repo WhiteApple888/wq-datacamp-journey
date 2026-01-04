@@ -1,0 +1,14 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python internals
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+
+# Large Data files
+*.csv
